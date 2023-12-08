@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doron Breska.</h1>
-<p align="left">I'm a Full-Stack develper based in Berlin :technologist:<br/>Check my <a href="https://doron-breska-portfolio.netlify.app/">portfolio</a></p>
+<p align="left">I'm a Full-Stack develper based in Berlin :technologist:<br/>Check my <a href="https://doron-breska-portfolio.netlify.app/">portfolio</a><br/>Connect with me on <a href="[https://doron-breska-portfolio.netlify.app/](https://www.linkedin.com/in/doron-breska)">Linkedin</a></p>
 
 
 
