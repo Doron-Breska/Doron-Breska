@@ -1,4 +1,6 @@
-<h1 align="center">Hello,  I'm Doron :)</h1>
+<h1 align="center">Hi 👋, I'm Doron Breska.</h1>
+<p align="left">I'm a Full-Stack develper based in Berlin.</p>
+
 
 
 <!--
