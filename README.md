@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doron Breska.</h1>
-<p align="left">I'm a Full-Stack develper based in Berlin :technologist:<br/>Check my <a href="https://doron-breska-portfolio.netlify.app/">portfolio</a><br/>Connect with me on <a href="https://www.linkedin.com/in/doron-breska">Linkedin <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doron-breska" height="20" width="20" /></a></p>
+<p align="left">I'm a Full-Stack develper based in Berlin :technologist:<br/>Check my <a href="https://doron-breska-portfolio.netlify.app/">portfolio</a><br/>Connect with me on <a href="https://www.linkedin.com/in/doron-breska">Linkedin</a></p>
 
 
 
